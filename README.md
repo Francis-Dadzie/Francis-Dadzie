@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi there! I'm Francis 👋
+
+Experienced IT professional in:
+
+- IT Support
+- Systems Administration
+- Active Directory / windows server 
+- Microsoft 365
+- Networking
+- Cloud technologies
+
+Currently focusing on:
+
+- Linux
+- AWS
+- DevOps / platform engineering
+- Infrastructure automation
+
 
 <!--
 **Francis-Dadzie/Francis-Dadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
