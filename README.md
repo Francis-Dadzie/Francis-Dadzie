@@ -16,7 +16,7 @@ Currently focusing on:
 - DevOps / platform engineering
 - Infrastructure automation
 
-Reach out on Linkedin; https://www.linkedin/in/dadzie-f87
+Reach out on Linkedin; https://www.linkedin.com/in/dadzie-f87
 
 <!--
 **Francis-Dadzie/Francis-Dadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
