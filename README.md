@@ -16,7 +16,10 @@ Currently focusing on:
 - DevOps / platform engineering
 - Infrastructure automation
 
-Reach out on Linkedin; https://www.linkedin.com/in/dadzie-f87
+📫 How to reach me:
+
+-Linkedin: [Francis Dadzie](https://www.linkedin.com/in/dadzie-f87 "Visit my page")
+-Email: [Contact](contact)
 
 <!--
 **Francis-Dadzie/Francis-Dadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
