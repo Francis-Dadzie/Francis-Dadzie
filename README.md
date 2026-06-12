@@ -18,8 +18,8 @@ Currently focusing on:
 
 📫 How to reach me:
 
--Linkedin: [Francis Dadzie](https://www.linkedin.com/in/dadzie-f87 "Visit my page")
--Email: [Contact](contact)
+- Linkedin: [Francis Dadzie](https://www.linkedin.com/in/dadzie-f87 "Visit my page")
+- Email: [Contact](contact)
 
 <!--
 **Francis-Dadzie/Francis-Dadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
