@@ -1,27 +1,31 @@
 ## Hi there! I'm Francis 👋
 
-Experienced IT professional in:
+I'm an IT Operations & Systems Administrator with experience supporting enterprise Microsoft environments, identity services, and business-critical infrastructure.
 
-- IT Support
-- Systems Administration
-- Active Directory / windows server 
-- Microsoft 365
-- Networking
-- Cloud technologies
+My career began in technical support and I enjoy building, automating, and operating reliable infrastructure. I'm currently transitioning into Infrastructure Engineering with a strong focus on cloud technologies, Linux systems, networking, automation, and enterprise security.
 
-Currently focusing on:
+## 🛠️ Tech Stack
+Microsoft 365, Active Directory & Entra ID, Windows Server, Azure, PowerShell & Bash  
+Linux (RHEL/CentOS)  
+Git & GitHub  
+Networking (DNS, DHCP, TCP/IP)  
+VMware & Hyper-V  
 
-- Linux
-- AWS
-- DevOps / platform engineering
-- Infrastructure automation
+## 🚀 Current Focus
+Infrastructure Engineering  
+Cloud Administration  
+Automation & Scripting  
+Identity & Access Management  
+Enterprise Security
 
-📫 How to reach me:
+## 📫 Let's Connect
+💼 LinkedIn: _https://www.linkedin.com/in/dadzie-f87_  
+📧 Email: _dadziefrancis303@gmail.com_  
+🌍 Location: _Johannesburg, South Africa_  
 
-- Linkedin: [Francis Dadzie](https://www.linkedin.com/in/dadzie-f87 "Visit my page")
-- Email: [Contact](francisd87@icloud.com)
-
+_Reliable infrastructure isn't built by accident—it's designed, maintained, and continuously improved._
 <!--
+
 **Francis-Dadzie/Francis-Dadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
