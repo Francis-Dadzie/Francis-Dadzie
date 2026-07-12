@@ -1,6 +1,6 @@
 ## Hi there! I'm Francis 👋
 
-I'm an IT Operations & Systems Administrator with experience supporting enterprise Microsoft environments, identity services, and business-critical infrastructure.
+IT Operations & Systems Administrator with experience supporting enterprise Microsoft environments, identity services, and business-critical infrastructure.
 
 My career began in technical support and I enjoy building, automating, and operating reliable infrastructure. I'm currently transitioning into Infrastructure Engineering with a strong focus on cloud technologies, Linux systems, networking, automation, and enterprise security.
 
