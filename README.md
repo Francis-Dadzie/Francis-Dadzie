@@ -6,9 +6,8 @@ My career began in technical support and I enjoy building, automating, and opera
 
 ## 🛠️ Tech Stack
 Microsoft 365, Active Directory & Entra ID, Windows Server, Azure, PowerShell & Bash  
-Linux (RHEL/CentOS)  
-Git & GitHub  
-Networking (DNS, DHCP, TCP/IP)  
+Linux (RHEL/CentOS, Ubuntu, Debian)  
+Networking 
 VMware & Hyper-V  
 
 ## 🚀 Current Focus
