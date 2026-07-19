@@ -2,7 +2,7 @@
 
 IT Operations & Systems Administrator with experience supporting business-critical infrastructure.
 
-My career began in technical support and I enjoy building, automating, and operating reliable infrastructure. Currently transitioning on Infrastructure Engineering.
+My career began in technical support and I enjoy building, automating, and operating reliable infrastructure. Currently focusing on Infrastructure Engineering.
 
 ## 🛠️ Tech Stack
 Linux, scripting, python, databases, identity services  
