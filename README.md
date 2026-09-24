@@ -5,10 +5,10 @@ IT Operations & Systems Administrator with experience supporting business-critic
 My career began in technical support and I enjoy building, automating, and operating reliable infrastructure. Currently focusing on Infrastructure Engineering.
 
 ## 🛠️ Current Tech Stack
-Linux, scripting, python, databases, identity services  
+AWS  
 VMware & Hyper-V  
 Microsoft 365, Active Directory & Entra ID, Windows Server, Azure, PowerShell & Bash  
-AWS
+Linux, scripting, python, databases, identity services 
 
 ## 📫 Let's Connect 
 
