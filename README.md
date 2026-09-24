@@ -11,7 +11,7 @@ Microsoft 365, Active Directory & Entra ID, Windows Server, Azure, PowerShell & 
 AWS
 
 ## 📫 Let's Connect
-💼 LinkedIn: _https://www.linkedin.com/in/dadzie-f87_  
+💼 LinkedIn: _linkedin.com/in/dadzie-f87_  
 📧 Email: _dadziefrancis303@gmail.com_  
 🌍 Location: _Johannesburg, South Africa_  
 
