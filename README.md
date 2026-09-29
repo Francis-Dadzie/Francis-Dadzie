@@ -23,7 +23,7 @@ Linux, scripting, python, databases, identity services
 </p>
 
 
-_Reliable infrastructure isn't built by accident—it's designed, maintained, and continuously improved._
+_Reliable infrastructure isn't built by accident — it's designed, maintained, and continuously improved._
 <!--
 
 **Francis-Dadzie/Francis-Dadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
